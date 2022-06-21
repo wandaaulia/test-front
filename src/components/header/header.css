@@ -1,0 +1,45 @@
+.bg-header {
+    background-image: url("../../assets/background_header.svg");
+      background-size: cover;
+      height: 655px;
+        background-repeat: no-repeat;
+        padding: 2% 5%;
+}
+
+.notlp {
+    background-color: #FFFE55;
+}
+
+.list-navbar {
+    font-size: 13px;
+}
+
+.logo {
+    width: 75%;
+}
+
+.text-navbar {
+    font-size: 82px;
+}
+
+.margin-right-2 {
+    padding-right: 5%;
+}
+
+.arrow-img {
+    width: 35%;
+}
+
+.arrow-img img {
+    width: 100%;
+}
+
+.arrow-container {
+    right: 5%;
+    width: fit-content;
+    justify-content: flex-end;
+}
+
+.text-about {
+    font-weight: 500;
+}
