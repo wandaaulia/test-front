@@ -1,45 +1,72 @@
 .bg-header {
-    background-image: url("../../assets/background_header.svg");
-      background-size: cover;
-      height: 655px;
-        background-repeat: no-repeat;
-        padding: 2% 5%;
+  background-image: url("../../assets/background_header.svg");
+  background-size: cover;
+  height: 655px;
+  background-repeat: no-repeat;
+  padding: 2% 5%;
 }
 
 .notlp {
-    background-color: #FFFE55;
+  background-color: #fffe55;
 }
 
 .list-navbar {
-    font-size: 13px;
+  font-size: 13px;
 }
 
 .logo {
-    width: 75%;
+  width: 75%;
 }
 
 .text-navbar {
-    font-size: 82px;
+  font-size: 82px;
 }
 
 .margin-right-2 {
-    padding-right: 5%;
+  padding-right: 5%;
 }
 
 .arrow-img {
-    width: 35%;
+  width: 35%;
 }
 
 .arrow-img img {
-    width: 100%;
+  width: 100%;
 }
 
 .arrow-container {
-    right: 5%;
-    width: fit-content;
-    justify-content: flex-end;
+  right: 5%;
+  width: fit-content;
+  justify-content: flex-end;
 }
 
 .text-about {
-    font-weight: 500;
+  font-weight: 500;
+}
+
+
+.hijau {
+  z-index: -0.5;
+  height: 30%;
+ top: 80%;
+ left: 50%;
+
+}
+
+.hijau img {
+  width : 100%;
+  height: 100%;
+}
+
+.text-problems {
+  z-index: 2;
+  position: relative;
+}
+
+.text-line-heigth {
+  line-height: 78.5px;
+}
+
+.text-list {
+  font-size: 11px;
 }

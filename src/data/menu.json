@@ -1,0 +1,14 @@
+[
+    { "id" : 1,
+"desc": "HOME"},
+ { "id" : 2,
+"desc": "SERVICES •"},
+ { "id" : 3,
+"desc": " WORK FLOW • "},
+ { "id" : 4,
+"desc": " PORTOFOLIO • "},
+ { "id" : 5,
+"desc": "ABOUT US •"},
+ { "id" : 6,
+"desc": "OUR VALUE •"}
+]
