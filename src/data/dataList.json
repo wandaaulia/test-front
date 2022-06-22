@@ -1,14 +1,22 @@
 [
-    { "id" : 1,
+  {
+    "id": 1,
     "title": "INTEGRATION WITH 3RD PARTY WEB SERVICES",
-"desc": "We use all opportunities to solve business problems. Our intelligent digital strategy and a pragmatic and thoughtful approach to solving business calls deliver a successful framework for both you and your audience."},
- { "id" : 2,
+    "desc": "We use all opportunities to solve business problems. Our intelligent digital strategy and a pragmatic and thoughtful approach to solving business calls deliver a successful framework for both you and your audience."
+  },
+  {
+    "id": 2,
     "title": "HOSTING/MAINTENANCE",
-"desc": "Our hosting services are designed to give you the highest level of security with respect to your website’s performance. We exclusively use safe and modern servers, which minimizes the risk of any single point of failure. This includes a minimized risk of hacks or other malicious activities."},
- { "id" : 3,
+    "desc": "Our hosting services are designed to give you the highest level of security with respect to your website’s performance. We exclusively use safe and modern servers, which minimizes the risk of any single point of failure. This includes a minimized risk of hacks or other malicious activities."
+  },
+  {
+    "id": 3,
     "title": "DESIGN UX/UI",
-"desc": "Although it might seem merely superficial, the user experience might be the most crucial part of your online presence. When viewers are confronted with long loading times, cramped landing pages or an otherwise infuriating design, they will leave quicker than they came."},
- { "id" : 4,
+    "desc": "Although it might seem merely superficial, the user experience might be the most crucial part of your online presence. When viewers are confronted with long loading times, cramped landing pages or an otherwise infuriating design, they will leave quicker than they came."
+  },
+  {
+    "id": 4,
     "title": "SEO SERVICES",
-"desc": "A well-thought-out SEO strategy can boost your growth, and in turn sales, without an expensive PPC-campaign. There are multiple ways we can help you with this."}
+    "desc": "A well-thought-out SEO strategy can boost your growth, and in turn sales, without an expensive PPC-campaign. There are multiple ways we can help you with this."
+  }
 ]
