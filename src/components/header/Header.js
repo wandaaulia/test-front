@@ -24,7 +24,7 @@ const Header = () => {
             </div>
         </div>
    
-            <div className="absolute top-3/4 text-navbar text-8xl break-words text-line-heigth tracking-wider font-normal text-left w-4/5">
+            <div className="absolute  text-navbar text-8xl break-words text-line-heigth tracking-wider font-normal text-left w-4/5">
  <h1> WE ASSIST YOU IN SOLVING TOMORROW'S <span className="text-white"> PROBLEMS TODAY </span></h1>
 </div>
 <div className="flex flex-row gap-4 items-end absolute arrow-container bottom-5"> 
